@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\slie3_Picturebox\bin\Debug\slie3_Picturebox.exe.config
+E:\SQL\KetnoiSQL\slie3_Picturebox\bin\Debug\slie3_Picturebox.exe
+E:\SQL\KetnoiSQL\slie3_Picturebox\bin\Debug\slie3_Picturebox.pdb
+E:\SQL\KetnoiSQL\slie3_Picturebox\obj\Debug\slie3_Picturebox.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\slie3_Picturebox\obj\Debug\slie3_Picturebox.Form1.resources
+E:\SQL\KetnoiSQL\slie3_Picturebox\obj\Debug\slie3_Picturebox.Properties.Resources.resources
+E:\SQL\KetnoiSQL\slie3_Picturebox\obj\Debug\slie3_Picturebox.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\slie3_Picturebox\obj\Debug\slie3_Picturebox.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\slie3_Picturebox\obj\Debug\slie3_Picturebox.exe
+E:\SQL\KetnoiSQL\slie3_Picturebox\obj\Debug\slie3_Picturebox.pdb
