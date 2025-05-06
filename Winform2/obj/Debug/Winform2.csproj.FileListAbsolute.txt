@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\Winform2\bin\Debug\Winform2.exe.config
+E:\SQL\KetnoiSQL\Winform2\bin\Debug\Winform2.exe
+E:\SQL\KetnoiSQL\Winform2\bin\Debug\Winform2.pdb
+E:\SQL\KetnoiSQL\Winform2\obj\Debug\Winform2.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\Winform2\obj\Debug\Winform2.Form1.resources
+E:\SQL\KetnoiSQL\Winform2\obj\Debug\Winform2.Properties.Resources.resources
+E:\SQL\KetnoiSQL\Winform2\obj\Debug\Winform2.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\Winform2\obj\Debug\Winform2.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\Winform2\obj\Debug\Winform2.exe
+E:\SQL\KetnoiSQL\Winform2\obj\Debug\Winform2.pdb

@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\ListBox\bin\Debug\ListBox.exe.config
+E:\SQL\KetnoiSQL\ListBox\bin\Debug\ListBox.exe
+E:\SQL\KetnoiSQL\ListBox\bin\Debug\ListBox.pdb
+E:\SQL\KetnoiSQL\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\ListBox\obj\Debug\ListBox.Form1.resources
+E:\SQL\KetnoiSQL\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+E:\SQL\KetnoiSQL\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\ListBox\obj\Debug\ListBox.exe
+E:\SQL\KetnoiSQL\ListBox\obj\Debug\ListBox.pdb

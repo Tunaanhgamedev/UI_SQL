@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\TestSQL\bin\Debug\TestSQL.exe.config
+E:\SQL\KetnoiSQL\TestSQL\bin\Debug\TestSQL.exe
+E:\SQL\KetnoiSQL\TestSQL\bin\Debug\TestSQL.pdb
+E:\SQL\KetnoiSQL\TestSQL\obj\Debug\TestSQL.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\TestSQL\obj\Debug\TestSQL.Properties.Resources.resources
+E:\SQL\KetnoiSQL\TestSQL\obj\Debug\TestSQL.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\TestSQL\obj\Debug\TestSQL.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\TestSQL\obj\Debug\TestSQL.exe
+E:\SQL\KetnoiSQL\TestSQL\obj\Debug\TestSQL.pdb
+E:\SQL\KetnoiSQL\TestSQL\obj\Debug\TestSQL.frmTest1.resources

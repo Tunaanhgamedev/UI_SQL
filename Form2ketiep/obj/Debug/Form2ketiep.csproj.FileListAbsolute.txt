@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\Form2ketiep\bin\Debug\Form2ketiep.exe.config
+E:\SQL\KetnoiSQL\Form2ketiep\bin\Debug\Form2ketiep.exe
+E:\SQL\KetnoiSQL\Form2ketiep\bin\Debug\Form2ketiep.pdb
+E:\SQL\KetnoiSQL\Form2ketiep\obj\Debug\Form2ketiep.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\Form2ketiep\obj\Debug\Form2ketiep.frm2.resources
+E:\SQL\KetnoiSQL\Form2ketiep\obj\Debug\Form2ketiep.Properties.Resources.resources
+E:\SQL\KetnoiSQL\Form2ketiep\obj\Debug\Form2ketiep.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\Form2ketiep\obj\Debug\Form2ketiep.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\Form2ketiep\obj\Debug\Form2ketiep.exe
+E:\SQL\KetnoiSQL\Form2ketiep\obj\Debug\Form2ketiep.pdb

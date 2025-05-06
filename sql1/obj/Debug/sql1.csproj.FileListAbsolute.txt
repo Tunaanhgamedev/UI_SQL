@@ -1,0 +1,9 @@
+E:\SQL\KetnoiSQL\sql1\bin\Debug\sql1.exe.config
+E:\SQL\KetnoiSQL\sql1\bin\Debug\sql1.exe
+E:\SQL\KetnoiSQL\sql1\bin\Debug\sql1.pdb
+E:\SQL\KetnoiSQL\sql1\obj\Debug\sql1.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\sql1\obj\Debug\sql1.Properties.Resources.resources
+E:\SQL\KetnoiSQL\sql1\obj\Debug\sql1.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\sql1\obj\Debug\sql1.exe
+E:\SQL\KetnoiSQL\sql1\obj\Debug\sql1.pdb

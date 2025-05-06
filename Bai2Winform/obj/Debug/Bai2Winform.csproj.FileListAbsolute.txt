@@ -1,0 +1,11 @@
+E:\SQL\KetnoiSQL\Bai2Winform\bin\Debug\Bai2Winform.exe.config
+E:\SQL\KetnoiSQL\Bai2Winform\bin\Debug\Bai2Winform.exe
+E:\SQL\KetnoiSQL\Bai2Winform\bin\Debug\Bai2Winform.pdb
+E:\SQL\KetnoiSQL\Bai2Winform\obj\Debug\Bai2Winform.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\Bai2Winform\obj\Debug\Bai2Winform.Properties.Resources.resources
+E:\SQL\KetnoiSQL\Bai2Winform\obj\Debug\Bai2Winform.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\Bai2Winform\obj\Debug\Bai2Winform.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\Bai2Winform\obj\Debug\Bai2Winform.exe
+E:\SQL\KetnoiSQL\Bai2Winform\obj\Debug\Bai2Winform.pdb
+E:\SQL\KetnoiSQL\Bai2Winform\obj\Debug\Bai2Winform.frmTinh.resources
+E:\SQL\KetnoiSQL\Bai2Winform\obj\Debug\Bai2Winform.frmB.resources

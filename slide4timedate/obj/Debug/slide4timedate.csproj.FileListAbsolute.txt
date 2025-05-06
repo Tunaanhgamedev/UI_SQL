@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\slide4timedate\bin\Debug\slide4timedate.exe.config
+E:\SQL\KetnoiSQL\slide4timedate\bin\Debug\slide4timedate.exe
+E:\SQL\KetnoiSQL\slide4timedate\bin\Debug\slide4timedate.pdb
+E:\SQL\KetnoiSQL\slide4timedate\obj\Debug\slide4timedate.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\slide4timedate\obj\Debug\slide4timedate.Properties.Resources.resources
+E:\SQL\KetnoiSQL\slide4timedate\obj\Debug\slide4timedate.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\slide4timedate\obj\Debug\slide4timedate.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\slide4timedate\obj\Debug\slide4timedate.exe
+E:\SQL\KetnoiSQL\slide4timedate\obj\Debug\slide4timedate.pdb
+E:\SQL\KetnoiSQL\slide4timedate\obj\Debug\slide4timedate.frmDangki.resources
