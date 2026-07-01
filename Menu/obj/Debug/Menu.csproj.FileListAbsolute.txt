@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\Menu\bin\Debug\Menu.exe.config
+E:\SQL\KetnoiSQL\Menu\bin\Debug\Menu.exe
+E:\SQL\KetnoiSQL\Menu\bin\Debug\Menu.pdb
+E:\SQL\KetnoiSQL\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\Menu\obj\Debug\Menu.Form1.resources
+E:\SQL\KetnoiSQL\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\SQL\KetnoiSQL\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\Menu\obj\Debug\Menu.exe
+E:\SQL\KetnoiSQL\Menu\obj\Debug\Menu.pdb

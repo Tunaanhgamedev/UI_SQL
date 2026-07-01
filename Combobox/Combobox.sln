@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combobox", "Combobox.csproj", "{EA64A3D9-C1AE-4BDA-82B7-6CD30718586D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA64A3D9-C1AE-4BDA-82B7-6CD30718586D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA64A3D9-C1AE-4BDA-82B7-6CD30718586D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA64A3D9-C1AE-4BDA-82B7-6CD30718586D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA64A3D9-C1AE-4BDA-82B7-6CD30718586D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8CD26B-04C8-406D-B594-6E747F267344}
+	EndGlobalSection
+EndGlobal

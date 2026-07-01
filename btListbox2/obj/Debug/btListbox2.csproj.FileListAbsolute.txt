@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\btListbox2\bin\Debug\btListbox2.exe.config
+E:\SQL\KetnoiSQL\btListbox2\bin\Debug\btListbox2.exe
+E:\SQL\KetnoiSQL\btListbox2\bin\Debug\btListbox2.pdb
+E:\SQL\KetnoiSQL\btListbox2\obj\Debug\btListbox2.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\btListbox2\obj\Debug\btListbox2.frmSinhvien.resources
+E:\SQL\KetnoiSQL\btListbox2\obj\Debug\btListbox2.Properties.Resources.resources
+E:\SQL\KetnoiSQL\btListbox2\obj\Debug\btListbox2.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\btListbox2\obj\Debug\btListbox2.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\btListbox2\obj\Debug\btListbox2.exe
+E:\SQL\KetnoiSQL\btListbox2\obj\Debug\btListbox2.pdb

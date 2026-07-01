@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\Combobox\bin\Debug\Combobox.exe.config
+E:\SQL\KetnoiSQL\Combobox\bin\Debug\Combobox.exe
+E:\SQL\KetnoiSQL\Combobox\bin\Debug\Combobox.pdb
+E:\SQL\KetnoiSQL\Combobox\obj\Debug\Combobox.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\Combobox\obj\Debug\Combobox.Properties.Resources.resources
+E:\SQL\KetnoiSQL\Combobox\obj\Debug\Combobox.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\Combobox\obj\Debug\Combobox.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\Combobox\obj\Debug\Combobox.exe
+E:\SQL\KetnoiSQL\Combobox\obj\Debug\Combobox.pdb
+E:\SQL\KetnoiSQL\Combobox\obj\Debug\Combobox.frmCombo.resources

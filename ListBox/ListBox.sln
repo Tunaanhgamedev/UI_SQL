@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.34902.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox", "ListBox.csproj", "{85C03E46-23A8-42B1-88FD-3B7E23AE9D92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btListbox", "..\btListbox\btListbox.csproj", "{78B6B2CC-13DD-47A9-A894-C938D4B15C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btListbox2", "..\btListbox2\btListbox2.csproj", "{E90FBA04-492D-48CD-9FC8-E0D3BCCA6A87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{85C03E46-23A8-42B1-88FD-3B7E23AE9D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85C03E46-23A8-42B1-88FD-3B7E23AE9D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85C03E46-23A8-42B1-88FD-3B7E23AE9D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B6B2CC-13DD-47A9-A894-C938D4B15C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B6B2CC-13DD-47A9-A894-C938D4B15C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B6B2CC-13DD-47A9-A894-C938D4B15C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B6B2CC-13DD-47A9-A894-C938D4B15C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90FBA04-492D-48CD-9FC8-E0D3BCCA6A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90FBA04-492D-48CD-9FC8-E0D3BCCA6A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90FBA04-492D-48CD-9FC8-E0D3BCCA6A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90FBA04-492D-48CD-9FC8-E0D3BCCA6A87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

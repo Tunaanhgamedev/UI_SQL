@@ -1,0 +1,10 @@
+E:\SQL\KetnoiSQL\BTCheckedListbox\bin\Debug\BTCheckedListbox.exe.config
+E:\SQL\KetnoiSQL\BTCheckedListbox\bin\Debug\BTCheckedListbox.exe
+E:\SQL\KetnoiSQL\BTCheckedListbox\bin\Debug\BTCheckedListbox.pdb
+E:\SQL\KetnoiSQL\BTCheckedListbox\obj\Debug\BTCheckedListbox.csproj.AssemblyReference.cache
+E:\SQL\KetnoiSQL\BTCheckedListbox\obj\Debug\BTCheckedListbox.Form1.resources
+E:\SQL\KetnoiSQL\BTCheckedListbox\obj\Debug\BTCheckedListbox.Properties.Resources.resources
+E:\SQL\KetnoiSQL\BTCheckedListbox\obj\Debug\BTCheckedListbox.csproj.GenerateResource.cache
+E:\SQL\KetnoiSQL\BTCheckedListbox\obj\Debug\BTCheckedListbox.csproj.CoreCompileInputs.cache
+E:\SQL\KetnoiSQL\BTCheckedListbox\obj\Debug\BTCheckedListbox.exe
+E:\SQL\KetnoiSQL\BTCheckedListbox\obj\Debug\BTCheckedListbox.pdb

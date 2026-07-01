@@ -3,12 +3,19 @@
   "WorkspaceRootPath": "E:\\SQL\\KetnoiSQL\\ListBox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85C03E46-23A8-42B1-88FD-3B7E23AE9D92}|ListBox.csproj|e:\\sql\\ketnoisql\\listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85C03E46-23A8-42B1-88FD-3B7E23AE9D92}|ListBox.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E90FBA04-492D-48CD-9FC8-E0D3BCCA6A87}|..\\btListbox2\\btListbox2.csproj|e:\\sql\\ketnoisql\\btlistbox2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C03E46-23A8-42B1-88FD-3B7E23AE9D92}|ListBox.csproj|e:\\sql\\ketnoisql\\listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C03E46-23A8-42B1-88FD-3B7E23AE9D92}|ListBox.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E90FBA04-492D-48CD-9FC8-E0D3BCCA6A87}|..\\btListbox2\\btListbox2.csproj|e:\\sql\\ketnoisql\\btlistbox2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90FBA04-492D-48CD-9FC8-E0D3BCCA6A87}|..\\btListbox2\\btListbox2.csproj|e:\\sql\\ketnoisql\\btlistbox2\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6B2CC-13DD-47A9-A894-C938D4B15C88}|..\\btListbox\\btListbox.csproj|e:\\sql\\ketnoisql\\btlistbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6B2CC-13DD-47A9-A894-C938D4B15C88}|..\\btListbox\\btListbox.csproj|e:\\sql\\ketnoisql\\btlistbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +25,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "E:\\SQL\\KetnoiSQL\\btListbox2\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "..\\btListbox2\\Sinhvien.cs",
+              "ToolTip": "E:\\SQL\\KetnoiSQL\\btListbox2\\Sinhvien.cs",
+              "RelativeToolTip": "..\\btListbox2\\Sinhvien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:22:21.337Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\SQL\\KetnoiSQL\\ListBox\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\SQL\\KetnoiSQL\\ListBox\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAqAAAA",
+              "DocumentMoniker": "E:\\SQL\\KetnoiSQL\\btListbox2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\btListbox2\\Form1.cs",
+              "ToolTip": "E:\\SQL\\KetnoiSQL\\btListbox2\\Form1.cs",
+              "RelativeToolTip": "..\\btListbox2\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T03:40:20.125Z",
+              "WhenOpened": "2025-05-19T01:23:16.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\SQL\\KetnoiSQL\\ListBox\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\SQL\\KetnoiSQL\\ListBox\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\SQL\\KetnoiSQL\\btListbox2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\btListbox2\\Form1.cs",
+              "ToolTip": "E:\\SQL\\KetnoiSQL\\btListbox2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\btListbox2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T06:18:02.589Z",
+              "WhenOpened": "2025-05-19T01:07:18.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\SQL\\KetnoiSQL\\btListbox\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\btListbox\\Form1.cs",
+              "ToolTip": "E:\\SQL\\KetnoiSQL\\btListbox\\Form1.cs",
+              "RelativeToolTip": "..\\btListbox\\Form1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAqwFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:07:43.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\SQL\\KetnoiSQL\\btListbox\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\btListbox\\Form1.cs",
+              "ToolTip": "E:\\SQL\\KetnoiSQL\\btListbox\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\btListbox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:34:08.546Z",
               "EditorCaption": " [Design]"
             }
           ]
